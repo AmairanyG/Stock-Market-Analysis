@@ -1,5 +1,4 @@
 # Stock Market Analysis
-### Key Tools: Excel - Visual Basic (VBA), Macros, Conditional Statements, Loops
 
 ![StockMarket](Images/stockmarket.jpg)
 
@@ -17,3 +16,6 @@
 -	Generated formula to return the greatest % increase, % decreased and the greatest total volume. 
 
 ![GreatestValues](Images/GreatestValues.png)
+
+
+### Key Tools: Excel - Visual Basic (VBA), Macros, Conditional Statements, Loops
